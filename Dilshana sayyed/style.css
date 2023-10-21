@@ -1,0 +1,36 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+    height:100vh;
+    width:100%;
+    background-image:linear-gradient(rgba(44, 41, 41, 0.6),rgba(37, 38, 38, 0.8)) ,url("image/ngo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+margin-right: 10px;
+}
+#c1{
+    background-color: rgb(51, 45, 45);
+    color: white;
+    
+}
+#c2{
+    background-color: rgb(229, 209, 216);
+    
+}
+footer{
+    background-color: black;
+    color:white;
+}
